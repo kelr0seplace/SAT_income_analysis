@@ -62,8 +62,6 @@ https://collegereadiness.collegeboard.org/sat
 
 Code:
 https://plotly.com/python/choropleth-maps/
-EDA Walkthrough lesson
-Data-viz lesson
 https://www.kite.com/python/answers/how-to-plot-a-line-of-best-fit-in-python
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html
 
